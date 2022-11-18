@@ -1,0 +1,14 @@
+{
+  "name": "bitbucket-lambda-telegram",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "node-telegram-bot-api": "^0.60.0",
+    "body-parser": "~1.17.1",
+    "co": "^4.6.0",
+    "cookie-parser": "~1.4.3"
+  }
+}
